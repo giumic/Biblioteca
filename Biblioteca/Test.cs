@@ -10,6 +10,8 @@ namespace Biblioteca
     {
         static void Main(string[] args)
         {
+            
+            // Main - classe di test
             Biblioteca b = new Biblioteca("Civica");
 
             Scaffale s1 = new Scaffale("S001");
