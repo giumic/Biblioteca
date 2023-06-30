@@ -21,6 +21,7 @@ namespace Biblioteca
             return string.Format("{0}\nDurata:{1}",
                 base.ToString(),
                 this.Durata);
+            //Commento inserito in data 30 giugno 2023
         }
     }
 }
