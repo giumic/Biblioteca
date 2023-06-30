@@ -13,6 +13,7 @@ namespace Biblioteca
 
         public Persona(string Nome, string Cognome)
         {
+            //aggiunta commento
             this.Nome = Nome;
             this.Cognome = Cognome;
         }
