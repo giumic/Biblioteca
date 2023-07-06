@@ -22,6 +22,8 @@ namespace Biblioteca
                 base.ToString(),
                 this.Durata);
             //Commento inserito in data 30 giugno 2023
+
+            ///ciao
         }
     }
 }
