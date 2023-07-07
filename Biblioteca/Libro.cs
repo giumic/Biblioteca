@@ -21,6 +21,7 @@ namespace Biblioteca
                 base.ToString(),
                 this.NumeroPagine);
             //test 7 luglio
+            //modifica 2
         }
     }
 }
