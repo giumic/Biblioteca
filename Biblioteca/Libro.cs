@@ -20,6 +20,7 @@ namespace Biblioteca
             return string.Format("{0}\nNumeroPagine:{1}",
                 base.ToString(),
                 this.NumeroPagine);
+            //test 7 luglio
         }
     }
 }
